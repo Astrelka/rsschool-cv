@@ -18,6 +18,7 @@ I am a lawyer and an accountant by education, and have worked in these professio
 - HTML5, CSS3 Basics 
 - VS Code
 - Битрикс24
+#### Soft skills
 - Emotional intellect
 - Teamwork
 - Empathy
